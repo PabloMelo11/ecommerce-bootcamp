@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://ik.imagekit.io/rmpz8b4ytr/logo_gostack_xOQ3emgGa.png"/>
+</p>
+
 ## 🚀 Sobre a aplicação
 
 - Essa aplicação será o back-end de um sistema que deve permitir a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce.
@@ -26,10 +30,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
     # Instalar as dependências
     $ yarn install
-    
+
     # Criar um banco de dados para o teste
     Nome: gostack_desafio09_tests
-    
+
     # Criar um banco de dados para a aplicacao
     Nome: gostack_desafio09
 
@@ -38,4 +42,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```
 
 ---
+
 Criado com ❤️ por Pablo Melo
