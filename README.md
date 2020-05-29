@@ -2,15 +2,17 @@
 <img src="https://ik.imagekit.io/rmpz8b4ytr/logo_gostack_xOQ3emgGa.png"/>
 </p>
 
-## 🚀 Sobre a aplicação
+## 🚀 About application
 
-- Essa aplicação será o back-end de um sistema que deve permitir a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce.
-- Foram utilizados conceitos como DDD e SOLID, bem como o uso do ExpressJS, TypeORM e o banco de dados relacional Postgres.
-- A aplicação faz parte de uma série de desafios do bootcamp GoStack 11.0 da Rocketseat.
+- This application will be the back-end of a system that should allow the creation of customers, products and orders, where the customer can generate new purchase orders for certain products, such as a small e-commerce.
 
-## 🚀 Tecnologias utilizadas
+- Concepts such as DDD and SOLID were used, as well as the use of ExpressJS, TypeORM and the Postgres relational database.
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+- The application is part of a series of challenges for the Rocketseat GoStack 11.0 bootcamp.
+
+## 🔥️ Technologies used
+
+The project was developed using the following technologies:
 
 - [NodeJS](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -18,29 +20,29 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [ExpressJS](https://expressjs.com/pt-br/)
 - [Postgres](https://www.postgresql.org/)
 
-## 🗂 Como baixar o projeto
+## ⚡️ How to download the project
 
 ```bash
 
-    # Clonar o repositório
+    # Clone the repository
     $ git clone https://github.com/PabloMelo11/ecommerce-bootcamp.git
 
-    # Entrar no diretório
+    # Enter directory
     $ cd ecommerce-bootcamp
 
-    # Instalar as dependências
+    # Install the dependencies
     $ yarn install
 
-    # Criar um banco de dados para o teste
-    Nome: gostack_desafio09_tests
+    # Create a database in docker for the test
+    name: gostack_desafio09_tests
 
-    # Criar um banco de dados para a aplicacao
-    Nome: gostack_desafio09
+    # Create a database in docker for the application
+    name: gostack_desafio09
 
-    # Iniciar o projeto
+    # Start the project
     $ yarn dev:server
 ```
 
 ---
 
-Criado com ❤️ por Pablo Melo
+Created with ❤️ by Pablo Melo
